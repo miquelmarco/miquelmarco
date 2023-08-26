@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning React!
+- 📫 How to reach me: miquel.marco@outlook.com
+- 🔭 I’m currently work with HTML5, CSS3, Javascript, Vue.Js, Bootstrap, JAVA, Spring, Spring Boot, Spring Security, JUnit, PostgreSQL!
+- 👯 I'm good with SCRUM
+- 💬 Ask me about chess♟️
 <!--
 **miquelmarco/miquelmarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
