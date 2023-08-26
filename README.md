@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning React!
 - 👯 I'm good with SCRUM
 - 💬 Ask me about chess♟️
+
+- 🧑‍💻 I really love teaching!!
 <!--
 **miquelmarco/miquelmarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
